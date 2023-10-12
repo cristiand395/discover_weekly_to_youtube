@@ -36,6 +36,14 @@ python3 spotifyWeekly.py
 - Ensure the new playlist `Saved Weekly` is created on your Spotify account with the songs from Discover Weekly playlist
 - Enjoy!
 
+- Create a project in Youtube Console [Console](https://console.developers.google.com/)
+  - Name what ever you want
+  - Enable YouTube Data API v3
+  - Create credentials
+  - Create OAuth client ID
+  - Download credentials
+  - Rename credentials to `client_secret.json` and move it to the root of the project
+
 # Remember
 - After first usage, add to your profile the new playlist (`Saved Weekly`) to not duplicate playlist the next time.
 
