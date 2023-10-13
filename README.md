@@ -39,6 +39,7 @@ python3 spotifyWeekly.py
 - Create a project in Youtube Console [Console](https://console.developers.google.com/)
   - Name what ever you want
   - Enable YouTube Data API v3
+  - Complete Consent Screen
   - Create credentials
   - Create OAuth client ID
   - Download credentials
