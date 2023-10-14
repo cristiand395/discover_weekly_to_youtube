@@ -2,6 +2,7 @@
 This project includes these features:
 - From your Discover Weekly playlist on Spotify, songs will be added to a playlist on your Spotify account.
 - From your Discover Weekly playlist on Spotify, songs will be added to a playlist on your YouTube account.(WIP)
+  - Seems like Youtube needs domain with ssl certificate to redirect to, so I'm trying to find a workaround.
 - Train Spotify algorithm to improve your Discover Weekly playlist with liked songs from YouTube. (WIP) 
 - Automate previous features to run every week. (WIP)
 
@@ -36,6 +37,7 @@ python3 spotifyWeekly.py
 - Ensure the new playlist `Saved Weekly` is created on your Spotify account with the songs from Discover Weekly playlist
 - Enjoy!
 
+## Connect to YouTube (WIP)
 - Create a project in Youtube Console [Console](https://console.developers.google.com/)
   - Name what ever you want
   - Enable YouTube Data API v3
